@@ -18,7 +18,8 @@ By stopping at certain time spot in the gif, we create a W state with high fidel
 
 Generation of GHZ state with a relatively low $H_{AC}$:
 
-![GHZ_Lindblad_WithoutPumping](https://github.com/ZhangTao1999/Entanglement_generation_via_single_qubit_operation_in_a_teared_Hilbert_space/assets/96274358/4c7ae8b9-8dbb-4d04-8897-9616d7e00f3f)
+![GHZ_Lindblad_WithPumping](https://github.com/ZhangTao1999/Entanglement_generation_via_single_qubit_operation_in_a_teared_Hilbert_space/assets/96274358/a1f6ed84-fe3b-4ffd-9b06-7c559e6a5d7c)
+
 
 For comparison, without barrier:
 
