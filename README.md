@@ -12,6 +12,9 @@ Genration of W state for 10 and 20 atoms with barrier created by $H_{AC}$, respe
 ![W_state_Lindblad_10_atom](https://github.com/ZhangTao1999/Entanglement_generation_via_single_qubit_operation_in_a_teared_Hilbert_space/assets/96274358/2e8189f5-046c-45f1-a29f-fcac5aefa23e)
 ![W_state_Lindblad_20_atom](https://github.com/ZhangTao1999/Entanglement_generation_via_single_qubit_operation_in_a_teared_Hilbert_space/assets/96274358/2ae32138-48c0-44f8-adb2-573e152e8417)
 
+By stopping at certain time spot in the gif, we create a W state with high fidelity. We deliberately extended the evolution time to show the effectiveness of the barrier created by $H_{AC}$.
+
+
 
 Generation of GHZ state with a relatively low $H_{AC}$:
 
